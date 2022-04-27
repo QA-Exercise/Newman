@@ -1,0 +1,23 @@
+{
+  "name": "newman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-Exercise/Newman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QA-Exercise/Newman/issues"
+  },
+  "homepage": "https://github.com/QA-Exercise/Newman#readme",
+  "devDependencies": {
+    "newman": "^5.3.2"
+  }
+}
