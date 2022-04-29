@@ -12,4 +12,4 @@ jobs:
         - name: Install dependencies
           run: npm install
         - name: Execute scripts
-          run: newman run {Your Collection Name}
+          run: newman run "Dummy API"
